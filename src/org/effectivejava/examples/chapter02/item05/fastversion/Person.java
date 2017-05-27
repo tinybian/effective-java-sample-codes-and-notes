@@ -3,6 +3,7 @@ package org.effectivejava.examples.chapter02.item05.fastversion;
 
 import java.util.Calendar;
 import java.util.Date;
+import java.util.Map;
 import java.util.TimeZone;
 
 class Person {
